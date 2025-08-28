@@ -1,0 +1,21 @@
+{
+  "name": "@cyftec/kvdb",
+  "version": "0.1.0",
+  "description": "A TypeScript-native database which uses localstorage",
+  "keywords": [
+    "cyftec",
+    "database",
+    "kv-store",
+    "kvdb",
+    "typescript"
+  ],
+  "author": "Chandan Kumar (Cyfer Tech)",
+  "license": "MIT",
+  "exports": "./src/index.ts",
+  "dependencies": {
+    "@cyftech/immutjs": "0.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
