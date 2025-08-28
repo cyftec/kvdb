@@ -1,7 +1,7 @@
 {
   "name": "@cyftec/kvdb",
   "version": "0.1.0",
-  "description": "A TypeScript-native database which uses localstorage",
+  "description": "A TS database implementation which uses localstorage",
   "keywords": [
     "cyftec",
     "database",
