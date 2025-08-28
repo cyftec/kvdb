@@ -1,6 +1,6 @@
 {
   "name": "@cyftec/kvdb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A TS database implementation which uses localstorage",
   "keywords": [
     "cyftec",
@@ -12,9 +12,6 @@
   "author": "Chandan Kumar (Cyfer Tech)",
   "license": "MIT",
   "exports": "./src/index.ts",
-  "dependencies": {
-    "@cyftech/immutjs": "0.1.0"
-  },
   "publishConfig": {
     "access": "public"
   }
